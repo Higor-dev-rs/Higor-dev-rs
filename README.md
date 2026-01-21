@@ -1,16 +1,29 @@
-## Hi there 👋
+ # 👋 Olá, eu sou Higor Rodrigues dos Santos
+ 
+##  Sobre mim:
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Uninter.
+* 💻 Atualmente estudando: Manipulação de DOM e consumo de APIs REST.
+* 💻 Desenvolvedor em formação com foco em Desenvolvimento Web
 
-<!--
-**Higor-dev-rs/Higor-dev-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎯 **Objetivo:**
+* Atuar como estagiário de desenvolvimento, focando em tecnologias HTML5, CSS3, JavaScript e Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Tecnologias**
+- Python (lógica de programação)
+- HTML5 | CSS3 | JavaScript
+- Git & GitHub
+
+## 📚 **Estudos**
+- Análise e Desenvolvimento de Sistemas — UNINTER (Em andamento)
+- Curso Full Stack — DevMedia (Em andamento)
+- Curso Front-end - SENAI (concluido)
+
+
+## 📫 **Contato:** 
+
+* **E-mail:** [higorrodrigues1605@gmail.com](mailto:higorrodrigues1605@gmail.com)
+* **LinkedIn:** [Higor Rodrigues](https://www.linkedin.com/in/higor-rodrigues-dev/)
+  
+
+
